@@ -3,7 +3,7 @@ A Pokemon Pokedex for Pokemon fans hehe!!
 
 Idea used - MySql-Python Connector
 
-# ~__Information__~
+# __Information__
 **Pokedex** is a Battle Information Item often seen in Pokemon Anime and Games. It gives information on Pokemon (including their type, hp, attack, defense, spatk, spdefence, and speed).
 Users need to search for Pokemon with their Pokemon ID.
 
